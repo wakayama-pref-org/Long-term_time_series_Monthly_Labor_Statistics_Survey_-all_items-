@@ -1,4 +1,4 @@
-# Long-term_time_series_Monthly_Labor_Statistics_Survey_-all_items-
+# long-term_time_series_monthly_labor_statistics_survey_-all_items-
 【和歌山県　長期時系列　毎月勤労統計調査です。】
 ◆毎月勤労統計調査とは
 〇調査の目的
